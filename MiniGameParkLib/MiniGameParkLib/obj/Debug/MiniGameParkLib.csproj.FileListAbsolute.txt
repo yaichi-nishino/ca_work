@@ -1,0 +1,21 @@
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.dll
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.pdb
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.csproj.CoreCompileInputs.cache
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.dll
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.dll
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.MgpMessageBox.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.dll
+C:\Users\Yaichi NISHINO\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.MgpMessageBox.resources
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.pdb

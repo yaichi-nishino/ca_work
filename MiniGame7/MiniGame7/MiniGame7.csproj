@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EEEC1D46-EB24-4ED4-B425-216B58624601}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MiniGame7</RootNamespace>
+    <AssemblyName>MiniGame7</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MiniGameParkLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MiniGameParkLib\MiniGameParkLib\obj\Debug\MiniGameParkLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_tree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start_bt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\num36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_wood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

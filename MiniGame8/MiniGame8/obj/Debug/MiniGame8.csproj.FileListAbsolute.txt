@@ -1,0 +1,26 @@
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.exe.config
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.exe
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.pdb
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.AssemblyReference.cache
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.Form1.resources
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.exe
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.pdb
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.CopyComplete
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.exe.config
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGame8.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGameParkLib.dll
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\bin\Debug\MiniGameParkLib.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.AssemblyReference.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.csproj.CopyComplete
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame8\MiniGame8\obj\Debug\MiniGame8.pdb

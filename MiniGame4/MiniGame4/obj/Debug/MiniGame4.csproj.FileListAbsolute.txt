@@ -1,0 +1,25 @@
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.exe.config
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.exe
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.pdb
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.CopyComplete
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.exe
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.pdb
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.exe.config
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGame4.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGameParkLib.dll
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\bin\Debug\MiniGameParkLib.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.CopyComplete
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.pdb
+C:\Users\csharp\source\repos2\MiniGame4\MiniGame4\obj\Debug\MiniGame4.csproj.AssemblyReference.cache

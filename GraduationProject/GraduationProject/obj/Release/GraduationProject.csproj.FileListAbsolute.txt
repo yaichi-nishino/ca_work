@@ -1,0 +1,60 @@
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.exe.config
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.exe
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.pdb
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.dll
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.dll
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.xml
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.xml
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.AssemblyReference.cache
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminAddGameForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminCreateDbForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminMenuForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminRemoveGameForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataGraphForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataViewForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminUpdateDataForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.Form1.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.GraphForPartialGameForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.GraphForTotalGameForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.Properties.Resources.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.UserListForm.resources
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.GenerateResource.cache
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.CoreCompileInputs.cache
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.CopyComplete
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.exe
+C:\Users\西野　八市\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.pdb
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.exe.config
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.exe
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\GraduationProject.pdb
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.dll
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.dll
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.xml
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\bin\Release\System.Data.SQLite.xml
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.AssemblyReference.cache
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminAddGameForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminCreateDbForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminMenuForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminRemoveGameForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataGraphForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminShowDataViewForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.AdminUpdateDataForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.Form1.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.GraphForPartialGameForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.GraphForTotalGameForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.Properties.Resources.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.UserListForm.resources
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.csproj.CopyComplete
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.exe
+C:\Users\csharp\source\repos2\GraduationProject\GraduationProject\obj\Release\GraduationProject.pdb

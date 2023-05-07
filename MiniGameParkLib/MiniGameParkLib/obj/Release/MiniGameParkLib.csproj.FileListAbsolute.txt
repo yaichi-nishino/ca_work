@@ -1,0 +1,14 @@
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Release\MiniGameParkLib.dll
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Release\MiniGameParkLib.pdb
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.csproj.AssemblyReference.cache
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.csproj.CoreCompileInputs.cache
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.dll
+C:\Users\西野　八市\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Release\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\bin\Release\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.MgpMessageBox.resources
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGameParkLib\MiniGameParkLib\obj\Release\MiniGameParkLib.pdb

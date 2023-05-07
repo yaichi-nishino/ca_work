@@ -1,0 +1,24 @@
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.exe.config
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.exe
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.pdb
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.Form1.resources
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.exe
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.pdb
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.CopyComplete
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.exe.config
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGame6.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGameParkLib.dll
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\bin\Debug\MiniGameParkLib.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.csproj.CopyComplete
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame6\MiniGame6\obj\Debug\MiniGame6.pdb

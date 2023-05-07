@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAppl2", "DrawAppl2\DrawAppl2.csproj", "{946E8629-7E49-4D76-BEA6-AD41F09FDBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946E8629-7E49-4D76-BEA6-AD41F09FDBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946E8629-7E49-4D76-BEA6-AD41F09FDBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946E8629-7E49-4D76-BEA6-AD41F09FDBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946E8629-7E49-4D76-BEA6-AD41F09FDBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA95E0C-13DD-44BA-B387-B99950EE82BE}
+	EndGlobalSection
+EndGlobal

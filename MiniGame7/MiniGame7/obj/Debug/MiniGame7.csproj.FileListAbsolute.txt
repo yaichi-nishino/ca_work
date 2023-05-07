@@ -1,0 +1,22 @@
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.exe.config
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.pdb
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.AssemblyReference.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.exe
+C:\Users\Yaichi NISHINO\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.pdb
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.exe.config
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.exe
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGame7.pdb
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.Form1.resources
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.Properties.Resources.resources
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.exe
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.pdb
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGameParkLib.dll
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\bin\Debug\MiniGameParkLib.pdb
+C:\Users\csharp\source\repos2\MiniGame7\MiniGame7\obj\Debug\MiniGame7.csproj.CopyComplete

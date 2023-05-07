@@ -1,0 +1,65 @@
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\csharp\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
+C:\Users\西野　八市\source\repos\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.AssemblyReference.cache
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.AssemblyReference.cache
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\Yaichi NISHINO\Desktop\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.AssemblyReference.cache
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\csharp\OneDrive\デスクトップ\220426\＊ソースコード\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.AssemblyReference.cache
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\csharp\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe.config
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.exe
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\bin\Debug\DrawAppl2.pdb
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.AssemblyReference.cache
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Form1.resources
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Pallet.resources
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.Properties.Resources.resources
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.GenerateResource.cache
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.csproj.CoreCompileInputs.cache
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.exe
+C:\Users\Yaichi NISHINO\source\repos2\＊おまけ\DrawAppl2\DrawAppl2\obj\Debug\DrawAppl2.pdb
